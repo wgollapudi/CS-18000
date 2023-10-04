@@ -1,8 +1,8 @@
 /**
-*A program that recommends food based on User Preferences.
+*TODO: program description 
 *
-*Purdue University -- CS18000 -- Fall 2023 -- Homework ## -- #Assignment
+*Purdue University -- CS18000 -- Fall 2023 -- Homework ## -- TODO: assignment description
 *
 *@author Walker Gollapudi
-*@version September 14, 2023
+*@version TODO: Month ##, 2023
 */
